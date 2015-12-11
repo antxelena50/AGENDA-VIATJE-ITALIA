@@ -11,6 +11,18 @@ $JSView.controller = {
 	},
     viewC: function(e){
 		$JSView.dataView({},e)
+    },
+    viewD: function(e){
+		$JSView.dataView({},e)
+    },
+    viewE: function(e){
+		$JSView.dataView({},e)
+    },
+    viewF: function(e){
+		$JSView.dataView({},e)
+    },
+    viewG: function(e){
+		$JSView.dataView({},e)
 	},
     modalA: function(e){
 		$JSView.dataView({},e)	
