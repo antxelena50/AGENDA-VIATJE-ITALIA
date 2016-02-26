@@ -6,19 +6,19 @@ $JSView.controller = {
     inici: function(e){
 		$JSView.dataView({},e)
 	},
-    Dia1: function(e){
+    Dilluns: function(e){
 		$JSView.dataView({},e)	
 	},
-    Dia2: function(e){
+    Dimarts: function(e){
 		$JSView.dataView({},e)
     },
-    Dia3: function(e){
+    Dimecres: function(e){
 		$JSView.dataView({},e)
     },
-    Dia4: function(e){
+    Dijous: function(e){
 		$JSView.dataView({},e)
     },
-    Dia5: function(e){
+    Divendres: function(e){
 		$JSView.dataView({},e)
     },
     Tornada: function(e){
