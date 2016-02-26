@@ -54,6 +54,6 @@ window.addEventListener('load', function() {
      
     /*Asign view start*/
     $JSView
-        .initView('viewA');
+        .initView('inici');
  
 }, false);
