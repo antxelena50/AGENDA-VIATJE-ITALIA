@@ -6,40 +6,40 @@ window.addEventListener('load', function() {
 	
 	*/
     $JSView.declareView({ 
-        viewA: {
-            url: '/viewA',
-            template: 'views/viewA.html',
-            controller: 'viewA'
+        inici: {
+            url: '/inici',
+            template: 'views/inici.html',
+            controller: 'inici'
         },
-        viewB: {
-            url: '/viewB',
-            template: 'views/viewB.html',
-            controller: 'viewB'
+        Dilluns: {
+            url: '/Dilluns',
+            template: 'views/Dilluns.html',
+            controller: 'Dilluns'
         },
-        viewC: {
-            url: '/viewC',
-            template: 'views/viewC.html',
-            controller: 'viewC'
+        Dimarts: {
+            url: '/Dimarts',
+            template: 'views/Dimarts.html',
+            controller: 'Dimarts'
         },
-        viewD: {
-            url: '/viewD',
-            template: 'views/viewD.html',
-            controller: 'viewD'
+       Dimecres: {
+            url: '/Dimecres',
+            template: 'views/Dimecres.html',
+            controller: 'Dimecres'
         },
-        viewE: {
-            url: '/viewE',
-            template: 'views/viewE.html',
-            controller: 'viewE'
+        Dijous: {
+            url: '/Dijous',
+            template: 'views/Dijous.html',
+            controller: 'Dijous'
         },
-        viewF: {
-            url: '/viewF',
-            template: 'views/viewF.html',
-            controller: 'viewF'
+        Divendres: {
+            url: '/Divendres',
+            template: 'views/Divendres.html',
+            controller: 'Divendres'
         },
-        viewG: {
-            url: '/viewG',
-            template: 'views/viewG.html',
-            controller: 'viewG'
+        Tornada: {
+            url: '/Tornada',
+            template: 'views/Tornada.html',
+            controller: 'Tornada'
         }
     });
      
