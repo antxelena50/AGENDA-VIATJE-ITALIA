@@ -45,10 +45,10 @@ window.addEventListener('load', function() {
      
     /*Declare modal*/
     $JSView.declareModal({
-        Menú: {
-            url: '/Menú',
-            template: 'views/Menú.html',
-            controller: 'Menú'
+        Menu: {
+            url: '/Menu',
+            template: 'views/Menu.html',
+            controller: 'Menu'
         }
     });
      
