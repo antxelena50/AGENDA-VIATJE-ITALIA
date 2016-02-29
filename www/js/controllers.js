@@ -25,6 +25,6 @@ $JSView.controller = {
 		$JSView.dataView({},e)
 	},
     Menu: function(e){
-		$JSView.declareModal({},e)
+		$JSView.dataview({},e)
 	}
 }
