@@ -46,9 +46,9 @@ window.addEventListener('load', function() {
     /*Declare modal*/
     $JSView.declareModal({
         modalA: {
-            url: '/modalA',
-            template: 'views/modalA.html',
-            controller: 'modalA'
+            url: '/Menú',
+            template: 'views/Menú.html',
+            controller: 'Menú'
         }
     });
      
