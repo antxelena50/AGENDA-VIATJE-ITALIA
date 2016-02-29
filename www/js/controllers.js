@@ -24,7 +24,7 @@ $JSView.controller = {
     Tornada: function(e){
 		$JSView.dataView({},e)
 	},
-    modalA: function(e){
-		$JSView.dataView({},e)	
+    Menú: function(e){
+		$JSView.declareModal({},e)
 	}
 }
