@@ -41,6 +41,10 @@ window.addEventListener('load', function() {
             template: 'views/Tornada.html',
             controller: 'Tornada'
         }
+        Mapes: {
+            url: '/Mapes',
+            template: 'views/Mapes.html',
+            controller: 'Mapes'
     });
      
     /*Declare modal*/
