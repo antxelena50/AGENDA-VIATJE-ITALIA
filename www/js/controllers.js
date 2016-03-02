@@ -24,8 +24,3 @@ $JSView.controller = {
     Tornada: function(e){
 		$JSView.dataView({},e)
 	},
-	/* MAPES */
-    Mapes: function(e){
-		$JSView.dataview({},e)
-	}
-}
