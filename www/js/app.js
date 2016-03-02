@@ -40,12 +40,7 @@ window.addEventListener('load', function() {
             url: '/Tornada',
             template: 'views/Tornada.html',
             controller: 'Tornada'
-        }
-        Mapes: {
-            url: '/Mapes',
-            template: 'views/Mapes.html',
-            controller: 'Mapes'
-    });
+        });
      
     /*Declare modal*/
     $JSView.declareModal({
