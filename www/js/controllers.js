@@ -23,4 +23,19 @@ $JSView.controller = {
     },
     Tornada: function(e){
 		$JSView.dataView({},e)
+    },
+	
+      /* MODALS ROMA DIA 1 */
+    modal_info_aeroport: function(e){
+	$JSView.dataView({},e)	
 	},
+    modal_info_coliseo: function(e){
+	$JSView.dataView({},e)	
+	},
+    modal_info_narvona: function(e){
+	$JSView.dataView({},e)	
+	},
+    modal_info_sanpietro: function(e){
+	$JSView.dataView({},e)	
+	},
+}
